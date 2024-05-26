@@ -10,13 +10,8 @@ Links para o artigo:
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido para entrega do desafio de projeto do Bootcamp Santander IA para Devs na DIO
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
-<p>
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover minha autoridade técnica.
 
 
 ## 💻 Tecnologias utilizadas no projeto
