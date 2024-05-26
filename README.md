@@ -5,8 +5,8 @@ Artigo técnico sobre Microsservicços feito para o Bootcamp DIO - Santander IA 
 
 
 Links para o artigo: 
-+ **DIO** - [https://web.dio.me/articles/microsservicos-os-guardioes-da-galaxia-do-desenvolvimento-de-softwares?back=%2Farticles&page=1&order=oldest]()
-+ **Linkedin** - [https://www.linkedin.com/pulse/microsservi%25C3%25A7os-os-guardi%25C3%25B5es-da-gal%25C3%25A1xia-do-de-tiago-peniche-cvjwf/?trackingId=przEBN8zTQK2YiGzwDEuEA%3D%3D]()
++ **DIO** - [Artigo Microsserviços na Plataforma DIO](https://web.dio.me/articles/microsservicos-os-guardioes-da-galaxia-do-desenvolvimento-de-softwares?back=%2Farticles&page=1&order=oldest)
++ **Linkedin** - [Artigo Microsserviços no Linkedin](https://www.linkedin.com/pulse/microsservi%25C3%25A7os-os-guardi%25C3%25B5es-da-gal%25C3%25A1xia-do-de-tiago-peniche-cvjwf/?trackingId=przEBN8zTQK2YiGzwDEuEA%3D%3D)
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido para entrega do desafio de projeto do Bootcamp Santander IA para Devs na DIO
 
