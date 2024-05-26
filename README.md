@@ -8,7 +8,7 @@ Links para o artigo:
 + **DIO** - [https://web.dio.me/articles/microsservicos-os-guardioes-da-galaxia-do-desenvolvimento-de-softwares?back=%2Farticles&page=1&order=oldest]()
 + **Linkedin** - [https://www.linkedin.com/pulse/microsservi%25C3%25A7os-os-guardi%25C3%25B5es-da-gal%25C3%25A1xia-do-de-tiago-peniche-cvjwf/?trackingId=przEBN8zTQK2YiGzwDEuEA%3D%3D]()
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido para entrega do desafio de projeto do Bootcamp Santander IA para Devs na DIO
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
