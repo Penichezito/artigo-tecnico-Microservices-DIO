@@ -24,7 +24,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
+Gemini & Aria AI：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -36,8 +36,8 @@ Lexica.art e Copilot：
 
 - No léxica e Copilot utilizamos prompts originais, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Guardiões da Galáxia
-• Groot e Rocket Racoon tomando café e programando
++ • Guardiões da Galáxia
++ • Groot e Rocket Racoon tomando café e programando
 
 
 
@@ -52,7 +52,7 @@ Lexica.art e Copilot：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como canva, power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
 ## 👨‍💻 Expert
 
